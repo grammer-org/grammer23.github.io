@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.hero-section{
+    height: 70vh;
+}
+.bg-hero{
+    background-image: url("../images/city-team-min.jpg");
+    background-size: cover;
+    background-repeat: none;
+    background-position: center;
+    border-radius: 20px;
+}
